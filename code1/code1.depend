@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1715838698 source:c:\users\megha p poojary\desktop\mxc\code1\table.c
+	<stdio.h>
+
+1715838591 source:c:\users\megha p poojary\desktop\mxc\code1\chair.c
+	<stdio.h>
+
+1715842925 source:c:\users\megha p poojary\desktop\mxc\code1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1715838698 source:c:\users\megha p poojary\desktop\mxc\code1\desks.c
+	<stdio.h>
+
+1715784946 source:c:\users\megha p poojary\desktop\mxc\code1\cabinets.c
+
+1715838698 source:c:\users\megha p poojary\desktop\mxc\code1\cupboards.c
+	<stdio.h>
+
+1715838975 source:c:\users\megha p poojary\desktop\mxc\code1\dressers.c
+	<stdio.h>
+
+1715782655 source:c:\users\megha p poojary\desktop\mxc\code1\recliners.c
+
+1715841449 source:c:\users\megha p poojary\desktop\mxc\code1\stool.c
+	<stdio.h>
+
