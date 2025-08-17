@@ -1,7 +1,6 @@
-# Furniture_Billing
-A console-based furniture store management application written in C that allows users to browse items and generate a bill.
-Furniture Store Management System
-This is a simple, console-based application designed to simulate the operations of a furniture store named "XYZ FURNITURE". The program allows a user to log in, browse various categories of furniture, view different types and their prices, and generate a total bill for their selections.
+#Furniture Store Management System
+
+A console-based furniture store management application designed to simulate the operations of a furniture store named "XYZ FURNITURE". The program allows a user to log in, browse various categories of furniture, view different types and their prices, and generate a total bill for their selections.
 
 ✨ Features
 
